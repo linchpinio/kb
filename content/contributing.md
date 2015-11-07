@@ -1,5 +1,5 @@
 /*
-Title: Contributing to Raneto
+Title: Contributing to LinchPin
 Sort: 2
 */
 
